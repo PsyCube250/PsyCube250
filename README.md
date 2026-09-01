@@ -92,7 +92,7 @@ CAM-based mechanism launcher
 
 ## 🌐 Find Me
 
-[GitHub](https://github.com/PsyCube250) · [LinkedIn](YOUR_LINKEDIN_URL)
+[GitHub](https://github.com/PsyCube250) · [LinkedIn](Linkedin.yudongzhao2077)
 
 ---
 
