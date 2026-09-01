@@ -1,5 +1,4 @@
 # Hey, I'm PsyCube250 👋
-
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/PsyCube250/starfield/main/starry_night.svg"
@@ -7,6 +6,12 @@
     alt="PsyCube250's GitHub Starry Night"
   />
 </p>
+
+<p align="center">
+  <i>Every contribution becomes a star.</i>
+</p>
+
+---
 ### 🤖 Robotics × AI × LLM
 
 I'm a Robotics & Artificial Intelligence student at **UCL**, building things across the boundary between software, intelligent systems, and hardware.
