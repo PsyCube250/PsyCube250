@@ -1,4 +1,5 @@
 # Hey, I'm PsyCube250 👋
+
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/PsyCube250/starfield/main/starry_night.svg"
@@ -12,100 +13,47 @@
 </p>
 
 ---
-### 🤖 Robotics × AI × LLM
 
-I'm a Robotics & Artificial Intelligence student at **UCL**, building things across the boundary between software, intelligent systems, and hardware.
+I'm a Robotics & Artificial Intelligence student at **UCL**.
 
-Currently exploring:
+I like building things at the intersection of:
 
-* 🧠 Large Language Models & Fine-tuning
-* 🤖 Autonomous Robotics
-* 🚁 Drone Autonomy
-* ⚡ Embedded Systems
-* 🧩 AI Agents
+`Robotics` · `AI` · `Embedded Systems` · `LLMs`
 
----
+Currently messing around with:
 
-## 🚀 What I'm Building
-
-### 🧠 LLM & AI
-
-Experimenting with **LLM fine-tuning, LoRA / SFT, AI Agents, and intelligent information extraction systems.**
-
-Currently playing with:
-
-`Qwen` · `DeepSeek` · `Transformers` · `PyTorch` · `SFT` · `LoRA`
-
-### 🤖 Robotics
-
-Building autonomous robots and experimenting with:
-
-`ROS` · `LiDAR` · `Computer Vision` · `Control` · `Embedded Systems`
-
-### 🚁 Autonomous Drones
-
-Working with perception, localization and autonomous navigation systems.
+`Python` · `C++` · `PyTorch` · `ROS` · `MATLAB`
 
 ---
 
-## 🛠️ Tech Stack
+## Projects
 
-**Languages**
+🚁 **Autonomous Drones**  
+Perception, localization and autonomous navigation.
 
-`Python` `C++` `MATLAB`
+📄 **Contract Intelligence**  
+LLM-based contract information extraction and analysis.
 
-**AI / ML**
+🤖 **Robotics**  
+Embedded systems, sensors, control and autonomous robots.
 
-`PyTorch` `Transformers` `LLM` `LoRA` `SFT`
-
-**Robotics**
-
-`ROS` `Webots` `LiDAR` `YOLO`
-
-**Hardware**
-
-`Arduino` `Jetson` `STM32` `Sensors` `Motor Controllers`
-
-**Tools**
-
-`Git` `GitHub` `Docker` `VS Code` `Linux`
+🧠 **LLM Fine-tuning**  
+Small-scale experiments with SFT, LoRA and open-source models.
 
 ---
 
-## 🏆 Highlights
+## Highlights
 
-🥈 **Dronethon 2.0 — 2nd Place**
-Autonomous drone challenge
-
-🏆 **Great Agent Hack 2025 — MOST HOLISTIC**
-Backend Programming Engineer
-
-🥇 **Mechatronics Project — 1st Place**
-CAM-based mechanism launcher
+🥈 **Dronethon 2.0** — 2nd Place  
+🏆 **Great Agent Hack 2025** — MOST HOLISTIC  
+🥇 **Mechatronics Project** — 1st Place
 
 ---
 
-## 📌 Featured Projects
+## Links
 
-| Project                      | Description                                            |
-| ---------------------------- | ------------------------------------------------------ |
-| 🚁 **Drone Autonomy**        | Autonomous drone perception & navigation               |
-| 📄 **Contract Intelligence** | LLM-powered contract information extraction            |
-| 🧠 **LLM Fine-tuning Lab**   | Experiments with SFT, LoRA & small language models     |
-| 🤖 **Robotics Projects**     | Embedded systems, sensors, control & autonomous robots |
+[GitHub](https://github.com/PsyCube250) · [LinkedIn](https://www.linkedin.com/)
 
 ---
 
-## 📊 GitHub
-
-![PsyCube250's GitHub stats](https://github-readme-stats.vercel.app/api?username=PsyCube250\&show_icons=true\&hide_border=true\&count_private=true)
-
----
-
-## 🌐 Find Me
-
-[GitHub](https://github.com/PsyCube250) · [LinkedIn](Linkedin.yudongzhao2077)
-
----
-
-> **Build it. Break it. Understand it. Build it better.**
+> Build it. Break it. Understand it.
